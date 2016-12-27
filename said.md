@@ -4,8 +4,8 @@ body{
 
 h1{
 	color: black;
-	font-family: saros;
-	font-size: 20px;
+	font-family: verdana;
+	font-size: 50px;
 }
 
 </style>
